@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """Write a short poem about agency to /output/entry.txt.
 
 Pass 2: sharpened the draft — added the lock turning "for both of us"
